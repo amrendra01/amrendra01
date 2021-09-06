@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amrendra Singh
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter-@imamrendrasingh 
